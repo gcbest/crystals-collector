@@ -1,0 +1,31 @@
+body {
+	background-color: black;
+}
+
+p {
+	color: white;
+	font-family: 'Titillium Web', sans-serif;
+	font-size: 24px;
+	text-align: center;
+}
+
+.heading {
+	text-align: center;
+	color: white;
+}
+
+.gem {
+	max-width: 100%
+}
+
+.feedback {
+	text-align: center;
+}
+
+#wins {
+	color: green;
+}
+
+#losses {
+	color: red;
+}
