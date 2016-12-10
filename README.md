@@ -1,5 +1,7 @@
 # crystals-collector
 
+Hosted at: http://infinity-gem-collector.herokuapp.com/
+
 Here's how the app works:
 
 There are four crystals displayed as buttons on the page.
