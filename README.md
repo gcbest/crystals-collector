@@ -1,8 +1,11 @@
-# crystals-collector
+# Crystals Collector
 
-Hosted at: http://infinity-gem-collector.herokuapp.com/
+## Summary
+This is a compatibility-based "FriendFinder" application. This full-stack site will take in results users' surveys, then compare their answers with those from other users. The app will then display the name and picture of the user with the best overall match.
 
-Here's how the app works:
+![image Description]()
+
+## Here's how the app works:
 
 There are four crystals displayed as buttons on the page.
 
@@ -20,3 +23,15 @@ The game restarts whenever the player wins or loses.
 
 When the game begins again, the player sees a new random number. Also, all the crystals will have four new hidden values. Of course, the user's score (and score counter) will reset to zero.
 The app shows the number of games the player wins and loses.
+
+### Online Demo
+You can test a fully working live demo at
+
+[http://infinity-gem-collector.herokuapp.com/](http://infinity-gem-collector.herokuapp.com/)
+
+## Technology Used
+ ![](http://williamavasquez.herokuapp.com/img/js.png)
+
+## License
+This project is licensed under the terms of the **MIT** license.
+
